@@ -64,7 +64,7 @@ cv2.imwrite("output/crop.png", cropped)
 
 # 3. Operasi Bitwise
 
-# Buat background (bisa juga diganti dengan gambar lain)
+# Buat background 
 bg = np.full((500, 400, 3), (200, 255, 200), dtype=np.uint8)
 
 # Mask & inverse mask
