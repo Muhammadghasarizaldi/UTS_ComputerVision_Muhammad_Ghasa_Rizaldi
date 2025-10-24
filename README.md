@@ -1,8 +1,8 @@
 # UTS_ComputerVision_Muhammad_Ghasa_Rizaldi
 # UTS Computer Vision – Karakter: Teddie (Kuma)
 
-Nama: [Isi Nama Kamu]  
-NIM: [Isi NIM]
+Nama: Muhammad Ghasa Rizaldi  
+NIM: 43050230004
 
  Deskripsi Karakter
 Teddie (Kuma) adalah karakter maskot beruang dari game Persona 4. Karakter ini memiliki bentuk sederhana yang cocok dibuat dengan fungsi OpenCV seperti lingkaran dan persegi.
